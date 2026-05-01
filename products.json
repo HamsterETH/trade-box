@@ -1,0 +1,14 @@
+{
+  "🚲 Велосипеди": [],
+  "📱 Електроніка": [],
+  "🔧 Автозапчастини": [],
+  "Стоматологія": [],
+  "Велосипеди E-bike": [
+    {
+      "name": "Focus Jam²  6.8 750wh (al, 29, S ) = 2000$",
+      "price": 2000,
+      "description": "Focus Ja 6.8",
+      "photo": "AgACAgIAAxkBAAMqafUNMScvpD-eJWpLKTmOcSQLPaAAAlMWaxvvsalL5MvTNxAEhUQBAAMCAAN5AAM7BA"
+    }
+  ]
+}
